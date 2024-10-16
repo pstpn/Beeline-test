@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+# Local files
+out.log
+.idea
+.DS_Store
