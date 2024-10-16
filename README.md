@@ -50,3 +50,7 @@ http:
         ```shell
         make docker-rm
         ```
+
+## <span style="color:#C0BFEC">🎆 ***Методы:*** </span>
+
+После запуска `Swagger` документация будет доступна по адресу `http://localhost:8081/api/v1/swagger/index.html#/`
