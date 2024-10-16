@@ -6,10 +6,10 @@ fmt-swag:
 
 swagger: fmt-swag gen-swag
 
-run: swagger
+run:
 	go run cmd/main.go
 
-docker-build: swagger
+docker-build:
 	docker build -t bee .
 
 docker-run: docker-build
